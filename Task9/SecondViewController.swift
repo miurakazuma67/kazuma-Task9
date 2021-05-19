@@ -8,19 +8,8 @@
 import UIKit
 
 class SecondViewController: UIViewController {
-
-    var prefecture: String = ""
     
     override func viewDidLoad() {
         super.viewDidLoad()
     }
-    
-    @IBAction func prefectureChoose(sender: UIStoryboard) {
-
-    }
-    
-    @IBAction func exitCancel(_ segue: UIStoryboardSegue) {
-    }
-
-
 }
